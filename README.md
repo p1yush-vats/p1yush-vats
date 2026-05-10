@@ -1,9 +1,9 @@
 <div align="center">
 
-# 🦇 PIYUSH VATS
+# PIYUSH VATS
 ### Full-Stack Developer | Building Cinematic Web Experiences
 
-![Banner](banner.png)
+
 
 ---
 
